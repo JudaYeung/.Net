@@ -1,0 +1,13 @@
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/bin/Debug/netcoreapp1.1/Hello.deps.json
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/bin/Debug/netcoreapp1.1/Hello.runtimeconfig.json
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/bin/Debug/netcoreapp1.1/Hello.runtimeconfig.dev.json
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/bin/Debug/netcoreapp1.1/Hello.dll
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/bin/Debug/netcoreapp1.1/Hello.pdb
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.csproj.AssemblyReference.cache
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.AssemblyInfoInputs.cache
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.AssemblyInfo.cs
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.csproj.CoreCompileInputs.cache
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.dll
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.pdb
+/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/Debug/netcoreapp1.1/Hello.genruntimeconfig.cache

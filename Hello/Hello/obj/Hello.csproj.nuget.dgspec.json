@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/judayeung/Desktop/Java/Net/Hello/Hello/Hello.csproj": {}
+  },
+  "projects": {
+    "/Users/judayeung/Desktop/Java/Net/Hello/Hello/Hello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/judayeung/Desktop/Java/Net/Hello/Hello/Hello.csproj",
+        "projectName": "Hello",
+        "projectPath": "/Users/judayeung/Desktop/Java/Net/Hello/Hello/Hello.csproj",
+        "packagesPath": "/Users/judayeung/.nuget/packages/",
+        "outputPath": "/Users/judayeung/Desktop/Java/Net/Hello/Hello/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/judayeung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
